@@ -6,7 +6,7 @@ For complete listings of economics journals, and a wider selection of links to b
 
 Note that the links provided are for on-campus access at Rutgers.  To access from off campus, use [the library catalog](quicksearch.libraries.rutgers.edu)to look up the appropriate link, or use the [Rutgers VPN](soc.rutgers.edu/vpn/).
 
-## The journals --
+## The journals -->
 
 * [American Economic Review](https://www.aeaweb.org/journals/aer)
 * [Biometrika](https://academic.oup.com/biomet)
